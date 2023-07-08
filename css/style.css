@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+h1{
+	color: aliceblue;
+}
+#p1{
+	color: #dc143c;
+}
+#p2{
+	color: rgb(162, 231, 34);
+}
+#p3{
+	color: rgb(251, 255, 0);
+}
+#p4{
+	color: rgb(9, 255, 0);
+}
